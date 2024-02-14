@@ -12,7 +12,7 @@ Clone the repository:
 
 bash
 Copy code
-git clone https://github.com/yourusername/keylogger.git
+git clone(https://github.com/zacobrohan/Python-Keylogger-Project)
 Navigate to the project directory:
 
 bash
